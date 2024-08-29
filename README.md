@@ -8,3 +8,7 @@ here we write codes on :-
 
 Form here you can take help by going though the Repo and learn To code ON Proteus and Arduino.
 So you can also Build Your OWN Embedded System Oneday.
+
+# Experiment list
+Experiment 1 - Blinking of LED Bulb or Light.
+Experiment 2 - Pattern of LED.
