@@ -12,3 +12,4 @@ So you can also Build Your OWN Embedded System Oneday.
 # Experiment list
 Experiment 1 - Blinking of LED Bulb or Light.
 Experiment 2 - Pattern of LED.
+Experiment 3 - IO INTERFACING
