@@ -10,6 +10,7 @@ Form here you can take help by going though the Repo and learn To code ON Proteu
 So you can also Build Your OWN Embedded System Oneday.
 
 # Experiment list
-Experiment 1 - Blinking of LED Bulb or Light.
-Experiment 2 - Pattern of LED.
-Experiment 3 - IO INTERFACING
+
+1. Experiment 1 - Blinking of LED Bulb or Light.
+2. Experiment 2 - Pattern of LED.
+3. Experiment 3 - IO INTERFACING
