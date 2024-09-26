@@ -16,3 +16,4 @@ So you can also Build Your OWN Embedded System Oneday.
 3. Experiment 3 - IO INTERFACING
 4. Experiment 4 - DC MOTER INTERFACING
 5. Experiment 5 - SERIAL COUMMNICATION
+6. Experiment 6 - EXTERNAL INTERRPUT
