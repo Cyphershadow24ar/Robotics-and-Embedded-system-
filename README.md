@@ -17,4 +17,6 @@ So you can also Build Your OWN Embedded System Oneday.
 4. Experiment 4 - DC MOTER INTERFACING
 5. Experiment 5 - SERIAL COUMMNICATION
 6. Experiment 6 - EXTERNAL INTERRPUT
-7. Experiment 7 - MOBILE ROBOT 
+7. Experiment 7 - MOBILE ROBOT
+8. Experiment 8 - Teleoperated Robot
+9. Experiment 9 - White Line Follower
