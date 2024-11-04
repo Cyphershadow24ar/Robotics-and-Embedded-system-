@@ -1,0 +1,19 @@
+const int lm1=PB5, lm2=PB4,lms=PD6, rm1=PD7, rm2=PB0, rms=PD5;
+void motor_pin_config();
+void fwd();
+void setup() {
+  motor_pin_config();
+  fwd();
+}
+void loop() {
+  
+}
+void motor_pin_config(){
+  DDRB |=(1<<lm1)|(1<<lm2)|(1<<rm2); 
+  DDRD |=(1<<lms)|(1<<rm1)|(1<<rms);
+  PORTD |=(1<<lms)|(1<<rms);  //to enable the motor driver's channels
+}
+void fwd(){
+  PORTB |=(1<<lm1); PORTB &=~(1<<lm2);
+  PORTD |=(1<<rm1); PORTB &=~(1<<rm2);
+}
