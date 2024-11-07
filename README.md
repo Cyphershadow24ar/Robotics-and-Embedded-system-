@@ -15,8 +15,10 @@ So you can also Build Your OWN Embedded System Oneday.
 2. Experiment 2 - Pattern of LED.
 3. Experiment 3 - IO INTERFACING
 4. Experiment 4 - DC MOTER INTERFACING
-5. Experiment 5 - SERIAL COUMMNICATION
-6. Experiment 6 - EXTERNAL INTERRPUT
-7. Experiment 7 - MOBILE ROBOT
-8. Experiment 8 - Teleoperated Robot
-9. Experiment 9 - White Line Follower
+5. Experiment 5 - DC SPEED MOTOR 
+6. Experiment 6 - SERIAL COUMMNICATION
+7. Experiment 7 - EXTERNAL INTERRPUT
+8. Experiment 8 - MOBILE ROBOT
+9. Experiment 9 - TELEOPERATED ROBOT
+10. Experiment 10 - WHITE LINE FOLLOWER
+11. Experiment 11 - BLACK LINE FOLLOWER
