@@ -23,7 +23,6 @@ void ledPinConfig(){
   DDRB |=(1<<PB1)|(1<<PB5);
 }
 
-
 void externalInterruptInit();
 void ledPinConfig();
 ISR(INT0_vect){
